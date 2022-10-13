@@ -27,6 +27,10 @@ p {
     color: yellow;
 }
 
+#banner-ad {
+    background-color: transparent;
+}
+
 .navbar-brand{
     font-family: 'Lobster', cursive;
 }
@@ -60,7 +64,7 @@ p {
 .divider-image {
     margin-bottom: 20px;
     border-radius: 10px;
-    width: 80%;
+    width: 100%;
 }
 
 .card {
@@ -157,6 +161,17 @@ p {
     text-transform: uppercase;
     font-weight: 400;
     font-weight: bolder;
+}
+
+.navigator a{
+    color: white;
+    text-decoration: none;
+    background-color: #5a228b;
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .list-group li {
