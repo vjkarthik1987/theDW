@@ -1,0 +1,173 @@
+body {
+    background-color: #ede7e1;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+h1, h2 {
+    color: #5a228b;
+    margin-bottom: 20px;
+    font-family: 'Lobster', cursive;
+}
+
+h6{
+    font-family: Inconsolata', monospace;
+}
+
+p {
+    font-family: 'Inconsolata', monospace;
+    font-weight: 400;
+    margin-bottom: 25px;
+}
+
+#special {
+    color: yellow;
+}
+
+.navbar-brand{
+    font-family: 'Lobster', cursive;
+}
+
+.hero {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+.bg-purple {
+    background-color: #5a228b;
+}
+
+.brand-text{
+    color:yellow;
+}
+
+.brand-image {
+    height: 24px;
+}
+
+.nav-item {
+    margin-right: 3px;
+}
+
+.nav-item:hover {
+    color: yellow;
+}
+
+
+.divider-image {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    width: 80%;
+}
+
+.card {
+    background-color: transparent;
+    border: 0;
+}
+
+.logo-image {
+    height: 24px;
+    margin-top: 20px;
+}
+
+.btn-primary {
+    background-color: #5a228b;
+    border-color: #5a228b;
+}
+
+.btn-primary a{
+    text-decoration: inherit;
+    color: white;
+}
+
+.btn-outline-secondary a{
+    text-decoration: inherit;
+    color: #5a228b;
+    padding: inherit;
+}
+
+.btn-outline-secondary:hover{
+    background-color:  #5a228b;
+}
+
+.btn-outline-secondary:hover > a{
+    text-decoration: inherit;
+    background-color:  #5a228b;
+    color: white;
+}
+
+.btn-outline-secondary a:hover{
+    background-color:  #5a228b;
+    color: white;
+}
+
+.footer {
+    background-color:  #5a228b;
+    margin-top: 30px;
+}
+
+.footer-link {
+    text-decoration: none;
+    color: white;
+}
+
+.text-white{
+    color: white;
+}
+
+.main {
+    padding-top: 100px;
+}
+
+.content-holder {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.individual-chapter-holder{
+    margin-bottom: 30px;
+}
+
+.chapter-number {
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    font-weight: 400;
+    margin-bottom: -3px;
+    font-family: Inconsolata', monospace;
+}
+
+.chapter-link {
+    text-decoration: underline;
+    color: black;
+    font-size: 2rem;
+    font-weight:bold;
+    font-family: Inconsolata', monospace;
+}
+
+.container {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.navigator {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-weight: bolder;
+}
+
+.list-group li {
+    margin-left: 20px;
+}
+
+.list-subitem {
+    margin-left: -20px;
+}
+
+.sub-heading {
+    font-size: 2rem;
+    font-weight: bold;
+}
