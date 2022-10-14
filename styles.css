@@ -1,5 +1,6 @@
 body {
-    background-color: #ede7e1;
+/*    background-color: #ede7e1;*/
+    background-color: white;
 }
 
 * {
@@ -30,6 +31,7 @@ p {
 #banner-ad {
     background-color: transparent;
 }
+
 
 .navbar-brand{
     font-family: 'Lobster', cursive;
@@ -167,8 +169,8 @@ p {
     color: white;
     text-decoration: none;
     background-color: #5a228b;
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 20%;
+    padding-right: 20%;
     border-radius: 5px;
     padding-top: 10px;
     padding-bottom: 10px;
