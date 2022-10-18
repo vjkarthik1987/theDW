@@ -21,7 +21,7 @@ h6{
 p {
     font-family: 'Inconsolata', monospace;
     font-weight: 400;
-    margin-bottom: 25px;
+    margin-bottom: 10px;
 }
 
 #special {
@@ -192,7 +192,11 @@ p {
 .chapter-img {
     height: 400px;
     width: auto;
-    margin: 15px auto;
+    margin: 15px auto 15px auto;
     border: 1px solid lightgrey;
     border-radius: 10px;
+}
+
+.page-heading {
+    font-size: 2rem;
 }
