@@ -188,3 +188,11 @@ p {
     font-size: 2rem;
     font-weight: bold;
 }
+
+.chapter-img {
+    height: 400px;
+    width: auto;
+    margin: 15px auto;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+}
