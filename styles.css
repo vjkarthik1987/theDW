@@ -171,7 +171,6 @@ p {
     background-color: #5a228b;
     padding-left: 20%;
     padding-right: 20%;
-    border-radius: 5px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
@@ -187,6 +186,10 @@ p {
 .sub-heading {
     font-size: 2rem;
     font-weight: bold;
+}
+
+.reduced {
+    font-size: 1.5rem;
 }
 
 .chapter-img {
