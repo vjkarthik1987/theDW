@@ -203,3 +203,7 @@ p {
 .page-heading {
     font-size: 2rem;
 }
+
+.chapter-container {
+    min-height: 90vh;
+}
