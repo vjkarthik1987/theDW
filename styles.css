@@ -79,6 +79,12 @@ p {
     margin-top: 20px;
 }
 
+.logo {
+    height: 30px;
+    width: auto;
+    margin-bottom: 30px;
+}
+
 .btn-primary {
     background-color: #5a228b;
     border-color: #5a228b;
