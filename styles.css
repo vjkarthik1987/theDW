@@ -199,8 +199,7 @@ p {
 }
 
 .chapter-img {
-    height: 400px;
-    width: auto;
+    width: 60%;
     margin: 15px auto 15px auto;
     border: 1px solid lightgrey;
     border-radius: 10px;
@@ -212,4 +211,14 @@ p {
 
 .chapter-container {
     min-height: 90vh;
+}
+
+.example-holder {
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px lightgrey solid;
+}
+
+.example-holder:last-child {
+    border-bottom: 0;
 }
