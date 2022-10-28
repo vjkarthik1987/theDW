@@ -154,7 +154,7 @@ p {
 .chapter-link {
     text-decoration: underline;
     color: black;
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight:bold;
     font-family: Inconsolata', monospace;
 }
@@ -220,4 +220,13 @@ p {
 
 .example-holder:last-child {
     border-bottom: 0;
+}
+
+.book-container {
+    margin-bottom: 20px;
+}
+
+.bookname {
+    font-weight: bold;
+    font-size: 1.2em;
 }
