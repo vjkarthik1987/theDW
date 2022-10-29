@@ -230,3 +230,7 @@ p {
     font-weight: bold;
     font-size: 1.2em;
 }
+
+.card-title {
+    color: #5a228b;
+}
